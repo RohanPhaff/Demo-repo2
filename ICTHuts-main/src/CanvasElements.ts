@@ -1,4 +1,4 @@
-abstract class Prompts {
+abstract class CanvasElements {
     protected name: string;
     protected xPos: number;
     protected yPos: number;

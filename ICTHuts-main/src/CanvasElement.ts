@@ -1,6 +1,6 @@
-/// <reference path="Prompts.ts"/>
+/// <reference path="CanvasElements.ts"/>
 
-class Prompt extends Prompts{
+class CanvasElement extends CanvasElements{
     constructor(
         name: string,
         xPos: number,
